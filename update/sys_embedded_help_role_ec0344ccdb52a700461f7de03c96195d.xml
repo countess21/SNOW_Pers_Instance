@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_197504_github_ba.some_table_user" name="x_197504_github_ba.some_table_user">a00344ccdb52a700461f7de03c96195b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>j.starr</sys_created_by>
+        <sys_created_on>2018-12-05 15:10:34</sys_created_on>
+        <sys_id>ec0344ccdb52a700461f7de03c96195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a00344ccdb52a700461f7de03c96195b</sys_name>
+        <sys_package display_value="GitHub_Backup" source="x_197504_github_ba">a9228840db12a700461f7de03c96193a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub_Backup">a9228840db12a700461f7de03c96193a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ec0344ccdb52a700461f7de03c96195d</sys_update_name>
+        <sys_updated_by>j.starr</sys_updated_by>
+        <sys_updated_on>2018-12-05 15:10:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
